@@ -12,7 +12,8 @@
     "mbed-gcc": "~0.1.0"
   },
   "keywords": [
-    "mbed-target:efm32lg",
+    "mbed-target:efm32lg-stk",
+    "mbed-target:efm32lg_stk3600",
     "mbed-official",
     "efm32lg",
     "efm32lg-stk",
