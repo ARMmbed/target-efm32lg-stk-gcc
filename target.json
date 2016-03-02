@@ -1,6 +1,6 @@
 {
   "name": "efm32lg-stk-gcc",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Official mbed build target for the STK3600 Starter Kit for EFM32LG, using the GCC toolchain.",
   "license": "Apache-2.0",
   "inherits": {
